@@ -1,0 +1,317 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.content{
+    
+    background-image: url(http://sfwallpaper.com/images/best-dark-hd-wallpapers-21.jpg);
+    height: 540px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content h3{font-size: 56px;color: #fff;font-style: italic;}
+.content p{font-size: 31px;color: #fff;}
+.text{
+    padding: 198px;
+}
+
+.content a{
+    
+    margin-top: -334px;
+    margin-left: 293px;
+}
+
+.about-box{
+    
+    height: 500px;
+    margin-left: 537px;
+    margin-top: 99px;
+}
+
+.about-box img{
+    
+    display: block;
+    border-radius: 79px;
+    /*! border-right-color: aqua; */
+}
+
+.about-box h3{
+    
+    margin-top: 25px;
+    font-size: 40px;
+    font-family: 'Fira Sans', sans-serif;
+    font-style: italic;
+}
+
+.about-box h2{
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 30px;
+}
+
+#about{
+    
+    background: #F6F6F6;
+    margin-bottom: 50px;
+}
+
+#hov{
+    color: blue;
+}
+#about h1{
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 34px;
+}
+
+#about h2{
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 30px;
+    margin-top: 10px;
+    font-style: italic;
+
+}
+
+#about h3{
+        font-family: 'Fira Sans', sans-serif;
+    font-size: 30px;
+        text-align: center;
+    margin-top: 40px;
+}
+
+#about a{
+    
+    margin-left: 69px;
+    margin-top: 50px;
+}
+
+
+
+#skill{
+    background: #7BC3D1;
+    height:600px;
+}
+
+.#skill h1{
+    color: white;
+}
+
+.skill-box{
+    
+    padding: 66px;
+    margin-bottom: 50px;
+}
+
+
+#portfolio{
+    background: #FBFCFC;
+    height: 800px;
+}
+
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+
+.portfolio-gellery{
+    height:700px;
+    width:100%;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+#success-message {
+  opacity: 0;
+}
+
+.col-xs-12.col-sm-12.col-md-12.col-lg-12 {
+  padding: 0 20% 0 20%;
+}
+
+.margin-top-25 {
+  margin-top: 25px;
+}
+
+.form-title {
+  padding: 25px;
+  font-size: 30px;
+  font-weight: 300;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  color: white;
+}
+
+.form-group .form-control {
+  -webkit-box-shadow: none;
+  border-bottom: 1px;
+  border-style: none none solid none;
+  border-radius:0; 
+  border-color: #000;
+}
+
+.form-group .form-control:focus {
+	box-shadow: none;
+  border-width: 0 0 2px 0;
+  border-color: #000;
+  
+}
+
+textarea {
+  resize: none;
+}
+
+.btn-mod.btn-large {
+    height: auto;
+    padding: 13px 52px;
+    font-size: 15px;
+}
+
+.btn-mod.btn-border {
+    color: #000000;
+    border: 1px solid #000000;
+    background: transparent;
+}
+
+.btn-mod, a.btn-mod {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 4px 13px;
+    color: #fff;
+    background: rgba(34,34,34, .9);
+    border: 1px solid transparent;
+    font-size: 11px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 2px;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    -webkit-transition: all 0.2s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+    -moz-transition: all 0.2s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+    -o-transition: all 0.2s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+    -ms-transition: all 0.2s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+    transition: all 0.2s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+}
+
+.btn-mod.btn-border:hover, .btn-mod.btn-border:active, .btn-mod.btn-border:focus, .btn-mod.btn-border:active:focus {
+    color: #fff;
+    border-color: #000;
+    background: #000;
+    outline: none;
+}
+
+@media only screen and (max-width: 500px) {
+    .btn-mod.btn-large {
+       padding: 6px 16px;
+       font-size: 11px;
+    }
+  
+    .form-title {
+        font-size: 20px;
+  }
+}
+
+
+#contact{
+
+    background: #7BC3D1;
+    margin-bottom: 50px;
+    border-bottom-color: #7BC3D1;
+}
+
+
+
+
+
+
+.footer #button{
+  width:35px;
+  height:35px;
+  border: #727172 12px solid;
+  border-radius:35px;
+  margin:0 auto;
+  position:relative;
+  -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.footer #button:hover{
+  width:35px;
+  height:35px;
+  border: #3A3A3A 12px solid;
+  -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+  position:relative;
+}
+.footer {
+  bottom:0;
+  left:0;
+  position:fixed;
+    width: 100%;
+    height: 2em;
+    overflow:hidden;
+    margin:0 auto;
+  -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+  z-index:999;
+}
+.footer:hover {
+  -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+  height: 10em;
+}
+.footer #container{
+  margin-top:5px;
+  width:100%;
+height:100%;
+  position:relative;
+  top:0;
+  left:0;
+  background: #3A3A3A;
+}
+.footer #cont{
+  position:relative;
+  top:-45px;
+  right:190px;
+  width:150px;
+  height:auto;
+  margin:0 auto;
+}
+.footer_center{
+  width:500px;
+  float:left;
+  text-align:center;
+}
+.footer h3{
+  font-family: 'Helvetica';
+  font-size: 25px;
+  font-weight: 100;
+  margin-top:70px;
+  margin-left:40px;
+  color:white;
+}
+
+
+.logo i{
+  font-size:45px;
+}
